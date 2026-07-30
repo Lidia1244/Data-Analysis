@@ -4,6 +4,6 @@
 
   Цель проекта: спроектировать хранилище для загрузки данных из источника, протянув их до слоя dds, и реализовать витринный слой данных
 Структура проекта:
-- скрипт создания базы данных DataBase.sql
+- скрипт создания базы данных [DataBase.sql]  (https://github.com/Lidia1244/Data-Analysis/blob/main/DataBase.sql)
 - S2T 
 - скрипты с расчетами метрик https://github.com/Lidia1244/Data-Analysis/tree/main/SQL 
